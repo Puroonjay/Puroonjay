@@ -9,7 +9,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
 Showcasing my primary languages and tools.
 
