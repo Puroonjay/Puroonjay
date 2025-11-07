@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Puroonjay </h1>
-  <h3>Diagnostic Systems Engineer | AI Intern | IST-aligned</h3>
+  <h3>Diagnostic Systems Engineer | IST-aligned</h3>
   <p>
     Passionate about <b>modular scaffolding</b>, <b>teardown diagnostics</b>, and  <b>building scalable systems</b>. <br> 
     I focus on bridging robust engineering principles with intelligent, data-driven solutions.
