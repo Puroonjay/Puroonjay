@@ -16,6 +16,7 @@ Showcasing my primary languages and tools.
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge">
   <img src="https://img.shields.io/badge/C-A8B9D0?style=for-the-badge&logo=c&logoColor=black" alt="C Badge">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
@@ -44,7 +45,7 @@ A snapshot of my professional and technical contributions.
 
 Formal validation of my core competencies.
 
-* **Core Engineering:** **C++** (Coursera), **C** (Coursera), **Python** (IBM)
+* **Core Engineering:** **C++** (Coursera), **C** (Coursera, Codetantra), **Python** (IBM), **Java** (Udemy, Codetantra)
 * **Web Foundations:** **JavaScript, HTML, CSS** (Certiport)
 * **AI/ML:** **Mathematical & Statistical Foundations for ML** (Infosys)
 * **Leadership:** **Aspire Leaders Program** (Aspire Institute)
